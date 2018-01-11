@@ -2,7 +2,7 @@
 
 MOCK EXAM THEORY QUESTION ANSWERS 
 
-Will you use microservices in your next project ? Why ?
+Will you use microservices in your next project ? Why ? (https://blog.digitalfoundry.com/are-microservices-right-for-your-next-project/)
 
       Yes, Because:
       Containing the work:
@@ -17,7 +17,7 @@ Will you use microservices in your next project ? Why ?
 
       Architecting a microservice allows your team to independently deploy and respond to increased volume quickly. As many companies on the cutting edge of technology have realized, you will inevitably experience the need to scale up specific areas of your product. Netflix, Uber, and Amazon are just a few that take advantage of microservices to continue providing a stable product while scaling up specific features.
 
-Discuss some strategies to scale your database systems
+Discuss some strategies to scale your database systems (https://www.clustrix.com/bettersql/scale-vs-scale/)
 
       Sharding: The conventional wisdom of how to scale your database past the single-instance has been database sharding, or partitioning your data across multiple servers. However, this method is costly and require talent engineers to apply this method to current database
 
