@@ -1,8 +1,23 @@
 # THEORIES
 
 MOCK EXAM THEORY QUESTION ANSWERS 
+1/Would you use Hibernate in your project? What are other alternatives you consider?
+      
+      Yes, 
+      Alternatives
+      -Node js 
+      -.NET
+      -Spring JDBC Template
+      -Sormula
+       More can be find in (https://dzone.com/articles/jpa-hibernate-alternatives)
 
-Will you use microservices in your next project ? Why ? (https://blog.digitalfoundry.com/are-microservices-right-for-your-next-project/)
+2/- If you start a new project for online shopping, will you select Java technology stack? Why? https://www.thinslices.com/blog/choose-technology-stack() | | (http://www.smashstack.com/articles/why-your-developer-cares-about-technology-stacks-and-why-you-should-too/)
+
+      Yes, Becasue java technology stack will enable the us to manage and monitor the transportation of data that went from         the users to the shop's databases. Furthermore, java stacks will provide the shop the needed security measures to             prevent unauthorised access to the database or lost of data. 
+      
+      Also, when implement the correct technology stack. it will be better for the shop in multiple perpective such as               maintainabilites and flexibilities in the future, when the shop scales itself.
+
+3/Will you use microservices in your next project ? Why ? (https://blog.digitalfoundry.com/are-microservices-right-for-your-next-project/)
 
       Yes, Because:
       Containing the work:
@@ -17,7 +32,7 @@ Will you use microservices in your next project ? Why ? (https://blog.digitalfou
 
       Architecting a microservice allows your team to independently deploy and respond to increased volume quickly. As many companies on the cutting edge of technology have realized, you will inevitably experience the need to scale up specific areas of your product. Netflix, Uber, and Amazon are just a few that take advantage of microservices to continue providing a stable product while scaling up specific features.
 
-Discuss some strategies to scale your database systems (https://www.clustrix.com/bettersql/scale-vs-scale/)
+4/Discuss some strategies to scale your database systems (https://www.clustrix.com/bettersql/scale-vs-scale/)
 
       Sharding: The conventional wisdom of how to scale your database past the single-instance has been database sharding, or partitioning your data across multiple servers. However, this method is costly and require talent engineers to apply this method to current database
 
