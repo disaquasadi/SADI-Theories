@@ -1,6 +1,7 @@
 # THEORIES
 
 MOCK EXAM THEORY QUESTION ANSWERS 
+
 1/Would you use Hibernate in your project? What are other alternatives you consider?
       
       Yes, 
