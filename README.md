@@ -1,5 +1,31 @@
 # THEORIES
 
+MOCK EXAM THEORY QUESTION ANSWERS 
+
+Will you use microservices in your next project ? Why ?
+
+      Yes, Because:
+      Containing the work:
+
+      What trips up most large enterprise organizations is not competency, it’s the process. Microservices allow you to contain a prioritized project to a set team, and not disrupt other teams as you get it done.
+
+      Embracing new technology without the risk:
+
+      Leverage the latest and greatest tools and technology to build your new service without the headache of making it work with the entirety of your legacy back-end architecture. Microservice development is technology agnostic, which means you can push your boundaries on your contained project, without hanging up the whole system.
+
+      Scaling Up:
+
+      Architecting a microservice allows your team to independently deploy and respond to increased volume quickly. As many companies on the cutting edge of technology have realized, you will inevitably experience the need to scale up specific areas of your product. Netflix, Uber, and Amazon are just a few that take advantage of microservices to continue providing a stable product while scaling up specific features.
+
+Discuss some strategies to scale your database systems
+
+      Sharding: The conventional wisdom of how to scale your database past the single-instance has been database sharding, or partitioning your data across multiple servers. However, this method is costly and require talent engineers to apply this method to current database
+
+      NoSQL: The alternative way to relational database is to use NoSQL database such as MongoDB. With NoSQL database, there is no headache to scale up database system anymore like relational database.  
+
+
+-----------------------------**************************-----------------------------------************************---------------------
+
 MicroService: 
 
       Microservices - also known as the microservice architecture - is an architectural style that structures an application as a             collection of loosely coupled services, which implement business capabilities. The microservice architecture enables the                 continuous delivery/deployment of large, complex applications. It also enables an organization to evolve its technology stack.
